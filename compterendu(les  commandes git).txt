@@ -1,0 +1,32 @@
+Configuration :
+git config --global user.name "UserName"
+git config --global user.email "Email"
+verification:
+git config -- get user.name
+git config --get user. Email
+master to main:
+git config --global init.defaultBranch main
+color:
+git config --global color.ui auto
+key SSH:
+ls~/.ssh/id_rsa.pub
+ssh-keygen -C Email_ici
+cat~/.ssh id_rsa.pub
+cela il donne un code, il faux de copier dans GitHub(setting --> SSH and GPG..) 
+ssh -T git @github.com --> yes
+ creation d'un repo:
+  create repository sur gitHub (copier lien)
+ git clone (lien)
+ git remote -v (verifier la connexion entre git et GitHub)
+ creation d'un fichier :touch FileName
+ git status (les infos sur les dossiers )
+ git add .  / git add -A  (ajouter tout )
+ git commit -m "message"  (valider)
+ git push original main (pour envoyer le fichier sur getHub)
+autre commandes
+ cd descktop  (l’emplacement)
+ mkdir fichier 
+ cd.. (retour au fichier président)
+ cd fichierx/    (entrer dans l’emplacement fichierX)
+ ls  (affiche le contenu de dossier )
+
