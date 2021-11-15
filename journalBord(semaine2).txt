@@ -1,0 +1,18 @@
+15-11-2020
+1-au debut de jour le prof  il nous donne un  feedback sur notre  journal de bord et les challenges  
+j'ai connais mes fautes  que je faisais surtout sur  le journal de bord  le faute qui j'ai fait  c'est je n'ai pas repondu aux 3 questions
+et apres j'ai completer les chalenges de conditions avec mon squad et j'ai fait un petit recherche sur l'algorithme 
+et apres nous somme presenter un live de webbinaire 
+apres nous somme fait un quiz sur le git et github et langage c sur les conditions et les variables 
+2- jai apres comment utiliser les operation logic et le role de l'order de c'est operations
+et j'ai apres quelque regle en  math comme l'equation de 2eme degre
+et  apartir ce quiz  j'ai savoir sur quoi je devrais cherche plus  
+3-l'order  de i++ et une operations 
+ex:
+R=0;
+x=6;
+i=2;
+R=x+i++;
+resultat de R est: 8
+et i=3
+LE PROGRAMME IL COMPTE R ET APRES i
