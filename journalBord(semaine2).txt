@@ -16,3 +16,30 @@ R=x+i++;
 resultat de R est: 8
 et i=3
 LE PROGRAMME IL COMPTE R ET APRES i
+15-11-2020
+ -aujoud'huit nous somme commence le jour par live cooding nous somme pratiquer des exercices de challenge  ,
+par la communication entre nous j'ai appris plusieurs choses comme  jump statements  et la conversion des variable  au type  bool ,
+et j'ai marque quelque note pour chercher comme Bitwise Operators et Data Structures et complexite au algorithme
+apres ce live nous somme presenter une presentation sur algorithme (la deffinition et la leur histoire )
+- a partir cette sience j'ai apres que
+if(-3) 
+{
+printf("OK");
+} 
+ce programme il affiche OK par ce que ce condition il retourne true 
+-par ce que tout les nombres est egal 1 (true)  en bool sauf le nombre 0 (false) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
