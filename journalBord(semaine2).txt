@@ -39,17 +39,20 @@ ________________________________________________________________________________
 -aujourd'hui j'ai commence les chalenges des  boucles et fonctions et tableaux 
 le prof nous a expplique comment trouver la solution  a un probleme en utilisant   l'algorihme ,
 il utilise l'exemple de pyramide d'etoiles
--j'ai appris comment utiliser l'algorithme pour trouver le solution facilement apartir 	3 etapes :
-1-comprendre  de probleme
+-j'ai appris comment utiliser l'algorithme pour trouver la solution facilement a partir  de 3 etapes :
+1-comprendre  le probleme
 2- generer le  probleme
-3-tester 
+3-tester le programme
 - j'ai utilise ce que j'ai appris pour resoudre  les problemes des challenges par exemple le challenge 4 (l'inverse des chifres)
 
+__________________________________________________________________________________________________________________________________
+                                                                16-11-2020
+__________________________________________________________________________________________________________________________________
 
 
-
-
-
+-aujourd'hui j'ai continue mes challenges sur les tableaux avec mon squad et apres on a fait un live cooding  nous avons  corrige  l'exercice de pyramid 
+-j'ai appris la methode que nous utilisant pour trie un tableau soit par  le tri rapide ou  le tri par fusion et aussi le recherche linaire et binaire 
+-ces choses  qui j'ai apprises m'aidront a creer le projet SAS  
 
 
 
