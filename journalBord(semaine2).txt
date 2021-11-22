@@ -32,7 +32,7 @@ ce programme il affiche OK par ce que ce condition il retourne true
 -par ce que tout les nombres est egal 1 (true)  en bool sauf le nombre 0 (false) 
 
 __________________________________________________________________________________________________________________________________
-                                                                15-11-2020
+                                                                16-11-2020
 __________________________________________________________________________________________________________________________________
 
 
@@ -46,10 +46,9 @@ il utilise l'exemple de pyramide d'etoiles
 - j'ai utilise ce que j'ai appris pour resoudre  les problemes des challenges par exemple le challenge 4 (l'inverse des chifres)
 
 __________________________________________________________________________________________________________________________________
-                                                                16-11-2020
+                                                                19-11-2020
 __________________________________________________________________________________________________________________________________
 
-19
 -aujourd'hui j'ai continue mes challenges sur les tableaux avec mon squad et apres on a fait un live cooding  nous avons  corrige  l'exercice de pyramid 
 -j'ai appris la methode que nous utilisant pour trie un tableau soit par  le tri rapide ou  le tri par fusion et aussi le recherche linaire et binaire 
 -ces choses  qui j'ai apprises m'aidront a creer le projet SAS  
