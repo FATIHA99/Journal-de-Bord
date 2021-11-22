@@ -49,7 +49,7 @@ ________________________________________________________________________________
                                                                 16-11-2020
 __________________________________________________________________________________________________________________________________
 
-
+19
 -aujourd'hui j'ai continue mes challenges sur les tableaux avec mon squad et apres on a fait un live cooding  nous avons  corrige  l'exercice de pyramid 
 -j'ai appris la methode que nous utilisant pour trie un tableau soit par  le tri rapide ou  le tri par fusion et aussi le recherche linaire et binaire 
 -ces choses  qui j'ai apprises m'aidront a creer le projet SAS  
@@ -58,3 +58,4 @@ ________________________________________________________________________________
 
 
 
+ -
