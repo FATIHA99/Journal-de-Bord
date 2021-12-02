@@ -1,5 +1,5 @@
 _________________________________________________________________________________________________________________
-30/11/2021
+30/11/2021  mardi
 _________________________________________________________________________________________________________________
 -aujourd'huit c'est le premier jour apres periode sas on a fait une petit revision de comment ca marche la pedagogie d'etude
 et apres nous somme fait une activite  chaque squad etait  definer des regles  qu'il faut respecter pendant la formation et on a fait une presentation pour
@@ -8,3 +8,18 @@ apres ca  nous somme commence d'etudier le web
 -   j'ai apris c'est quoi l'internet et le web et la difirence entre les deux 
 - j'ai apris que il ya plusieurs protocoles qui fait la communication entre les ordinateurs ex le HTTP c'est le protocole web  
 
+_________________________________________________________________________________________________________________
+1/12/2021  mercredi
+_________________________________________________________________________________________________________________
+-web /internet / fonctionnement de web /les competances 
+-  j'ai appris c'est quoi web /c'est quoi internet /la diferences entre web et internet / les difrents protocoles /
+/les competances qui j'ai  doit maitriser pendant cette annes 
+- a partir cette seances j'ai connu road map de cette annee de quoi je vais commence et par quoi je vais finir 
+et la formation de web et internet il m'aide d'apprendre commnent ça passe la procedure lors du saisi d'une adresse par 
+l'utilisateur
+_________________________________________________________________________________________________________________
+2/12/2021  jeudi
+_________________________________________________________________________________________________________________
+-breif 1 et 2 html css 
+-j'ai appris des diferents balise sur html et css et c'est quoi DOM HTML et cssom 
+- ces  simple breif  il maide de ameliorer mes competances pour creer un site web avec un super  deseign 
