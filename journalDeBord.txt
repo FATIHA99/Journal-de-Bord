@@ -18,8 +18,26 @@ ________________________________________________________________________________
 et la formation de web et internet il m'aide d'apprendre commnent ça passe la procedure lors du saisi d'une adresse par 
 l'utilisateur
 _________________________________________________________________________________________________________________
-2/12/2021  jeudi
+2/12/2021  jeudi 
 _________________________________________________________________________________________________________________
 -breif 1 et 2 html css 
 -j'ai appris des diferents balise sur html et css et c'est quoi DOM HTML et cssom 
 - ces  simple breif  il maide de ameliorer mes competances pour creer un site web avec un super  deseign 
+
+_________________________________________________________________________________________________________________
+6/12/2021  lundi
+_________________________________________________________________________________________________________________
+-dailly meeting /documentation sur les positions-grid view -view port -media querry et des autres balises / quizz sur html et css
+- j'ai appris à utiliser la requête multimédia en css pour rendre le site Web réactif et flex  
+- cela il m'aide de realiser le breif 3  
+
+_________________________________________________________________________________________________________________
+7/12/2021  mardi 
+_________________________________________________________________________________________________________________
+-activite SM2 / j'ai pratiquer la documentation  sur responsive web site sur le breif 3  (mobile first) 
+ /  presentation sur SEO et Mobile First 
+-j'ai apris le role de SEO (searsh Engine Optimisation )et le role d'utiliser meta  Key word et mobile first 
+et le role de media querry 
+-cela il m'aide de creer un site web optimiser et responsive 
+
+
