@@ -39,5 +39,11 @@ ________________________________________________________________________________
 -j'ai apris le role de SEO (searsh Engine Optimisation )et le role d'utiliser meta  Key word et mobile first 
 et le role de media querry 
 -cela il m'aide de creer un site web optimiser et responsive 
+_________________________________________________________________________________________________________________
+8/12/2021  mercredi
+_________________________________________________________________________________________________________________
 
-
+-hebergement d'un site web ,  accesibilite ,maquette ,creation d'une presentation power point 
+-j'ai appris comment  heperger un site web par 00Webhost  et comment calculer l'acceessibilite avec axetool 
+et aussi j'ai appris  comment faire le maquettage d'un site web  avec Adobe XD 
+-cela il m'aide de creer un site   web avec une methode plus  organiser  commencer par le maquette et fini par l'ebergement 
