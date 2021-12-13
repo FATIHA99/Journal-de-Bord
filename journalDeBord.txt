@@ -46,4 +46,24 @@ ________________________________________________________________________________
 -hebergement d'un site web ,  accesibilite ,maquette ,creation d'une presentation power point 
 -j'ai appris comment  heperger un site web par 00Webhost  et comment calculer l'acceessibilite avec axetool 
 et aussi j'ai appris  comment faire le maquettage d'un site web  avec Adobe XD 
--cela il m'aide de creer un site   web avec une methode plus  organiser  commencer par le maquette et fini par l'ebergement 
+-cela il m'aide de creer un site  web avec une methode plus  organiser  commencer par le maquette et fini par l'ebergement 
+_________________________________________________________________________________________________________________
+9/12/2021  Jeudi 
+_________________________________________________________________________________________________________________
+-daily meeting /breif4 (formulaire)/documentation de Adobe XD 
+-J'ai appris comment Utiliser Adobe XD sur desktop et mobile , et comment cree une formulaire en html 
+-cela il m'aide de faire un deseign   d'un site web avant le codage , et de utiliser les formulaires pour donner le droit 
+a l'utilisateur pour taper des informations 
+
+_________________________________________________________________________________________________________________
+10/12/2021  vendredi 
+_________________________________________________________________________________________________________________
+- presentation  de nos squad 
+
+
+_________________________________________________________________________________________________________________
+13/12/2021  Lundi 
+_________________________________________________________________________________________________________________
+-  maquette de breif 5 pour faire  un  deseign Low fidility et high fidility 
+- j'ai appris la diference entre low et high fidility et comment cree un deseign avec ces deux modes 
+-  cela il maide de faire un plan par low fidility  et  apres le  deseign  avec les photos et les coleurs pour un  site web avant le codage 
