@@ -67,3 +67,15 @@ ________________________________________________________________________________
 -  maquette de breif 5 pour faire  un  deseign Low fidility et high fidility 
 - j'ai appris la diference entre low et high fidility et comment cree un deseign avec ces deux modes 
 -  cela il maide de faire un plan par low fidility  et  apres le  deseign  avec les photos et les coleurs pour un  site web avant le codage 
+_________________________________________________________________________________________________________________
+14/12/2021 mardi
+_________________________________________________________________________________________________________________
+
+-J'ai completer le deseign high fidility desktop et  mobile et j'ai commence de travailler sur le breif 6  
+avec ma squad nous somme cree un table scrum  de nos tache sur trello et nous sommme commence le codage  html et css 
+et aussi le dseign  mobile sur Adobe XD  et j'ai fait une petit documentation sur github flow 
+-j'ai appris le role de git hub flow et coment diviser les tache entre le squat pour terminer   le travail dans une  prtit periode 
+- le travaille en groupe et la division des taches il m'aide de gangner le temps et l'argent :)
+
+
+ 
