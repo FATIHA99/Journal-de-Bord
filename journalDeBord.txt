@@ -77,5 +77,10 @@ et aussi le dseign  mobile sur Adobe XD  et j'ai fait une petit documentation su
 -j'ai appris le role de git hub flow et coment diviser les tache entre le squat pour terminer   le travail dans une  prtit periode 
 - le travaille en groupe et la division des taches il m'aide de gangner le temps et l'argent :)
 
-
- 
+_________________________________________________________________________________________________________________
+15/12/2021 mercredi
+_________________________________________________________________________________________________________________
+-creation de deseign mobile et aussi la creation de page desktop statique , 
+une presentation sur gitHub flow 
+-j'ai appris comment utiliser gitHub Flow mais j'ai besoin de pratique tout ce qu'est j'ai vu dans la  presentation 
+- gitHub flow a un grand role sur le travaille  en equipe il maide beaucoup de fusionner nos traveaux 
