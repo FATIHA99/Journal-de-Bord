@@ -66,7 +66,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 -  maquette de breif 5 pour faire  un  deseign Low fidility et high fidility 
 - j'ai appris la diference entre low et high fidility et comment cree un deseign avec ces deux modes 
--  cela il maide de faire un plan par low fidility  et  apres le  deseign  avec les photos et les coleurs pour un  site web avant le codage 
+-  cela il maide de faire un plan par low fidility  et  apres le  deseign  avec les photos et les coleurs pour
+ un  site web avant le codage 
 _________________________________________________________________________________________________________________
 14/12/2021 mardi
 _________________________________________________________________________________________________________________
@@ -74,7 +75,8 @@ ________________________________________________________________________________
 -J'ai completer le deseign high fidility desktop et  mobile et j'ai commence de travailler sur le breif 6  
 avec ma squad nous somme cree un table scrum  de nos tache sur trello et nous sommme commence le codage  html et css 
 et aussi le dseign  mobile sur Adobe XD  et j'ai fait une petit documentation sur github flow 
--j'ai appris le role de git hub flow et coment diviser les tache entre le squat pour terminer   le travail dans une  prtit periode 
+-j'ai appris le role de git hub flow et coment diviser les tache entre le squat pour terminer   le travail dans 
+une  petit periode 
 - le travaille en groupe et la division des taches il m'aide de gangner le temps et l'argent :)
 
 _________________________________________________________________________________________________________________
@@ -84,3 +86,35 @@ ________________________________________________________________________________
 une presentation sur gitHub flow 
 -j'ai appris comment utiliser gitHub Flow mais j'ai besoin de pratique tout ce qu'est j'ai vu dans la  presentation 
 - gitHub flow a un grand role sur le travaille  en equipe il maide beaucoup de fusionner nos traveaux 
+_________________________________________________________________________________________________________________
+16/12/2021 jeudi 
+_________________________________________________________________________________________________________________
+-j'ai fait une documentation sur git hub flow et j'ai pratiquer ça avec mon squad 
+- j'ai appris le role de  different commandes sur git 
+-cela il m'aide de trailler en equipe et de diviser les taches entre nous 
+
+_________________________________________________________________________________________________________________
+17/12/2021 vendredi 
+_________________________________________________________________________________________________________________
+-j'ai travailler sur mes taches se breif 6 la reponsivité et l'utilisation de grid 
+-j'ai appris comment positionner les élements  avec grid en css et aussi apartir d'une jeux j'ai appris comment utiliser flex 
+-cela il m'aide de rendre nos site flexible et responsive
+
+
+_________________________________________________________________________________________________________________
+21/12/2021 lundi  
+_________________________________________________________________________________________________________________
+- dailly meeting / refactoring  de page contact de breif /creation d'une page sur trello sur qui contient nos taches /quiz 
+- j'ai appris comment rendre le code clean et facile a lire apartir de refactoring et apartir le quizz  je sais j'ai besoin de documentation sutout sur git hub flow 
+-cela il m'aide de  developper mes competances et de cree un  bon site apartir le work flow 
+
+_________________________________________________________________________________________________________________
+22/12/2021 mardi
+_________________________________________________________________________________________________________________
+- CME / presentation sur flex / descusion sur les specialité de 2eme annéé 
+- a partir j'ai appris comment creer  une bonne présentation  et comment utiliser les cordonner main axis et cross axis en flex  et les autres proprietes
+
+- cela il m'aide de passé une bonne presentation d'entretien et a partir la presentation j'ai appris comment  cree une page responsive avec le flex 
+
+
+
