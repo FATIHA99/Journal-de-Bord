@@ -117,4 +117,13 @@ ________________________________________________________________________________
 - cela il m'aide de passé une bonne presentation d'entretien et a partir la presentation j'ai appris comment  cree une page responsive avec le flex 
 
 
+_________________________________________________________________________________________________________________
+23/12/2021 mercredi
+_________________________________________________________________________________________________________________
+- debreifing   pour le breif 6 /conception de breif 7 (web site for retaurant ) j'ai cree un diagramme de cas d'utilisation 
+- a partir le feedback  de debreifing j'ai appris qui j'ai besoin d'amélioration pour le work flow  et  aussi  la communication  :( 
+-cela il m'aide  pour savoir mes point faible et les  transformer a des point fort 
 
+
+
+ 
